@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Malik",
+    "email": "ayesha.malik@example.com",
+    "course": "Computer Science",
+    "year": "3rd Year",
+    "status": "Active",
+    "gpa": 3.82,
+    "joined": "2024-09-12"
+  },
+  {
+    "id": 2,
+    "name": "Hamza Khan",
+    "email": "hamza.khan@example.com",
+    "course": "Software Engineering",
+    "year": "2nd Year",
+    "status": "Active",
+    "gpa": 3.54,
+    "joined": "2025-01-18"
+  },
+  {
+    "id": 3,
+    "name": "Maham Ali",
+    "email": "maham.ali@example.com",
+    "course": "Data Science",
+    "year": "4th Year",
+    "status": "On Leave",
+    "gpa": 3.91,
+    "joined": "2023-09-05"
+  },
+  {
+    "id": 4,
+    "name": "Usman Raza",
+    "email": "usman.raza@example.com",
+    "course": "Cyber Security",
+    "year": "1st Year",
+    "status": "Active",
+    "gpa": 3.27,
+    "joined": "2026-02-10"
+  },
+  {
+    "id": 5,
+    "name": "Zara Ahmed",
+    "email": "zara.ahmed@example.com",
+    "course": "Computer Science",
+    "year": "3rd Year",
+    "status": "Graduated",
+    "gpa": 3.76,
+    "joined": "2023-09-11"
+  },
+  {
+    "id": 6,
+    "name": "Bilal Hussain",
+    "email": "bilal.hussain@example.com",
+    "course": "Software Engineering",
+    "year": "2nd Year",
+    "status": "Active",
+    "gpa": 3.42,
+    "joined": "2025-02-02"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "vinix-student-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive full-stack Student Management System for Vinix internship task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
